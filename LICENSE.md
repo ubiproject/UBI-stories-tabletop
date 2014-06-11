@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) <2014> <Sami Pohjolainen, Iikka Paajala, Toni Tuominen, Wangjin Zuo and Antti Oikarinen>
+Copyright (c) 2014 Sami Pohjolainen, Iikka Paajala, Wangjing Zuo, Toni Tuominen and Antti Oikarinen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
